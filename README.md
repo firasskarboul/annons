@@ -1,1 +1,1 @@
-"# Annons - Ionic academic project" 
+# Annons - Ionic academic project
